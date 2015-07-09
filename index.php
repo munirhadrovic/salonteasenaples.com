@@ -84,7 +84,9 @@
                             // }
                             </script>    
                         </div>
-                           <div class="homeposition"><a href="first/index.php" class="homebutton callfind">Home</a></div> 
+                           <div class="homeposition"><a href="first/index.php" class="homebutton callfind">Weddings</a></div>
+                           <div class="homeposition"><a href="first/index.php" class="homebutton callfind">Hair Salon</a></div>
+                           <div class="homeposition"><a href="first/index.php" class="homebutton callfind">Enter Here</a></div>
                     </div>      	
             </header>
         </div>
